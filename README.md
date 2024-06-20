@@ -33,4 +33,4 @@ O projeto adota um estilo de página única, modelado como um catálogo interati
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
 
 
-![Print da Página](src/imagens/print-pagina.png)
+![Print da Página](imagens/print-pagina.png)
