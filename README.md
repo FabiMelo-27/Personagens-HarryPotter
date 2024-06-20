@@ -32,6 +32,6 @@ O projeto adota um estilo de página única, modelado como um catálogo interati
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
 
-[Logo do Meu Projeto](src/imagens/print-pagina.png)
+[Logo do Meu Projeto]
 
-
+<img src="src/imagens/print-pagina.png">
