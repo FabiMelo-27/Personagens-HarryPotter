@@ -16,7 +16,7 @@ O projeto adota um estilo de página única, modelado como um catálogo interati
 
 1. **Clone o Repositório:**
   
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/FabiMelo-27/Personagens-HarryPotter.git
    
 
 2. **Abra o Projeto:**
